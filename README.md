@@ -3,7 +3,6 @@
 - 🔭 Hoje Trabalho como Front-End & Mobile Developer
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: Ele, Dele
-- ⚡ Fato Engraçado: Eu Amo Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/NicolasRSJ">
