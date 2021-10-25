@@ -1,5 +1,4 @@
 ## Oi! Me Chamo Nicolas Rodrigues.
-## Hi! My Name is Nicolas Rodrigues.
 
 - 🔭 Hoje Trabalho como Front-End & Mobile Developer
 - 🌱 Estudando JavaScript
